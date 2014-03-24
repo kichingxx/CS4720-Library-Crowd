@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LibraryCrowdsource</string>
+    <string name="action_settings">Settings</string>
+    <string name="clemons">Clemons</string>
+    <string name="alderman">Alderman</string>
+    <string name="thornton">Thornton</string>
+    <string name="libraryLabel">Library</string>
+    <string name="crowdLabel">How crowded is it?</string>
+    <string name="noiseLabel">How loud is it?</string>
+    <string name="sectionLabel">Section</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="clark">Clark</string>
+    <string name="rice">Rice Hall</string>
+    <string name="wilsdorf">Wilsdorf</string>
+    <string name="submit">Submit</string>
+    <string name="defaultData">No Data</string>
+    <string name="makePost">Post Library Report</string>
+     <string name="west_wing">West Wing</string>
+    <string name="east_wing">East Wing</string>
+    <string name="mcgregor">McGregor Room</string>
+    <string name="cafe">Cafe</string>
+    <string name="stacks">Stacks</string>
+    <string name="floor_one">1st Floor</string>
+    <string name="floor_two">2nd Foor</string>
+    <string name="floor_three">3rd Floor</string>
+    <string name="floor_four">4th Floor</string>
+    <string name="floor_five">5th Floor</string>
+    <string name="reading_room">Reading Room</string>
+    <string name="commerce">Commerce School</string>
+    <string name="computer_lab">Computer Lab</string>
+</resources>

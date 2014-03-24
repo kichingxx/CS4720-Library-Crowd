@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 var http = require("http");
 var url = require('url');
 
@@ -13,3 +14,13 @@ http.createServer(function (request, response){
 	response.end();
 	
 	}).listen(process.env.PORT || 8000);
+=======
+var http = require('http');
+
+http.createServer(function (req, res) {
+    
+    res.writeHead(200, { 'Content-Type': 'text/html' });
+    res.end('Hello, world!');
+    
+}).listen(process.env.PORT || 8080);
+>>>>>>> 459d2723e8c63836716c0c2d1302e8d2ddff69a5
